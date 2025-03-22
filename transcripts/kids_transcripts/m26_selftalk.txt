@@ -1,0 +1,74 @@
+STARTEPISODE_TRIAL_1 (3:24)
+*(4:12) participant:  - what is that? oh, i died. 
+ENDEPISODE_TRIAL_1 (4:15)
+STARTEPISODE_TRIAL_2 (4:17)
+*(5:12) participant:  that thing . . . that thing is coming for me. i have no idea what to do. i have no idea what to do.
+ENDEPISODE_TRIAL_2 (5:17)
+STARTEPISODE_ACTUAL_1 (6:33)
+*(7:08) participant:  i hate that thing.
+ENDEPISODE_ACTUAL_1 (7:18)
+STARTEPISODE_ACTUAL_2 (7:20)
+*(7:40) participant:  oof. now that’s new. i’m running away from others.
+*(8:00) participant:  oh my gosh.
+*(8:23) participant: ok, let’s leave it.
+ENDEPISODE_ACTUAL_2 (8:28)
+STARTEPISODE_ACTUAL_3 (8:29)
+*(8:46) participant: it’s kinda too much.
+*(9:12) participant: let’s try this again.
+*(9:28) participant: i don’t know how to do . . .  ughhh
+ENDEPISODE_ACTUAL_3 (9:34)
+STARTEPISODE_ACTUAL_4 (9:36)
+*(10:20) participant: oh my gosh, this is a little #
+*(10:29) participant:  how do you start?
+ENDEPISODE_ACTUAL_4 (10:42)
+STARTEPISODE_ACTUAL_5 (10:44)
+*(11:20) participant:  aaah! oh no. i’m dead. yea. 
+ENDEPISODE_ACTUAL_5 (11:29)
+STARTEPISODE_ACTUAL_6 (11:31)
+*(12:05) participant: this should save me. . . ### oh no.
+*(12:35) participant: yeaa, i’m gone.
+ENDEPISODE_ACTUAL_6 (12:35)
+STARTEPISODE_ACTUAL_7 (12:37)
+*(13:09) participant: waaait, what?
+ENDEPISODE_ACTUAL_7 (14:22)
+STARTEPISODE_ACTUAL_8 (14:24)
+*(15:08) participant: # … i don’t know why it’s like…## oh yea ok
+*(15:40) participant: aaaaaa. ok. i’m done. ###
+ENDEPISODE_ACTUAL_8 (15:46)
+STARTEPISODE_ACTUAL_9 (15:48)
+*(16:20) participant: wait, what? mm, ok.
+*(16:34) participant: how do you know where you’re going to go, because if you press this you go that way.
+ENDEPISODE_ACTUAL_9 (16:55)
+STARTEPISODE_ACTUAL_10 (16:57)
+*(16:57) participant: i don’t know, ok. that’s …
+*(17:26) participant: ugh, how do i do this?
+*(17:57) participant: aagh, i’m gonna be dead.
+*(18:09) participant: oh, i’m sleeping. i’ll just go back to sleep, for the rest of my life.
+*(18:18) participant: oh no, somebody’s coming. how do i do it? oh. wow i almost died there.
+ENDEPISODE_ACTUAL_10 (18:43)
+STARTEPISODE_ACTUAL_11 (18:45)
+*(18:47) participant: yeaa, sad. ok, let’s give it another shot.
+*(19:33) participant: oh no. i’m gonna die soon.
+ENDEPISODE_ACTUAL_11 (19:41)
+STARTEPISODE_ACTUAL_12 (19:43)
+*(19:44) participant: i don’t like this game.
+*(20:05) participant: one thing i find annoying about this game is that ## 
+*(20:27) participant: how do i wake up?
+*(20:36) participant: and now i need to go down. i need to get down.
+*(20:58) participant:  oh god. oh. oy-oy-oy. i just died.
+ENDEPISODE_ACTUAL_12 (21:03)
+STARTEPISODE_ACTUAL_13 (21:05)
+*(22:13) participant: hmm, i got this.
+*(22:43) participant: are these ghosts, or what are they?
+ENDEPISODE_ACTUAL_13 (22:51)
+STARTEPISODE_ACTUAL_14 (22:53)
+*(24:11) participant:  oh, that’s cool! 
+*(24:12) participant: oh my gosh! it’s just like running ###
+ENDEPISODE_ACTUAL_14 (24:19)
+STARTEPISODE_ACTUAL_15 (24:21)
+*(25:42) participant: um, um, i don’t think i need this. now i locked myself in.
+*(25:49) participant:  i thought i had enough, oh.
+*(25:59) participant: oh gosh, ummm.. . do you got anything to plant? ##
+ENDEPISODE_ACTUAL_15 (26:15)
+STARTEPISODE_ACTUAL_16 (26:17)
+ENDEPISODE_ACTUAL_16 (28:14)

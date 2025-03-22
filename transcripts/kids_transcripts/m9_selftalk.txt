@@ -1,0 +1,14 @@
+STARTEPISODE_TRIAL_1 (1:20)
+*(1:37) participant: yes, i found out how to how to drink.
+ENDEPISODE_TRIAL_1 (2:24)
+STARTEPISODE_TRIAL_2 (2:25)
+ENDEPISODE_TRIAL_2 (3:09)
+*(3:18) participant: i forgot to sleep a couple of times
+STARTEPISODE_ACTUAL_1 (3:30)
+*(4:42) participant: ok, so now i have a sword and a drink. drink, drink, drink. i just made a sword and a pickaxe, but then i just died.
+ENDEPISODE_ACTUAL_1 (4:52)
+STARTEPISODE_ACTUAL_2 (4:53)
+ENDEPISODE_ACTUAL_2 (5:41)
+STARTEPISODE_ACTUAL_3 (5:42)
+*(5:45) participant: it’s hard, it’s hard. what? ready. it's not moving.
+ENDEPISODE_ACTUAL_3 (6:20)

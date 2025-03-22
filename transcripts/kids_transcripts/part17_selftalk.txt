@@ -1,0 +1,121 @@
+STARTEPISODE_TRIAL_1 (1:48)
+ENDEPISODE_TRIAL_1 (2:48)
+STARTEPISODE_TRIAL_2 (2:49)
+ENDEPISODE_TRIAL_2 (3:52)
+STARTEPISODE_TRIAL_3 (3:53)
+*(5:06) participant: i better go get some water. gotta get some water. aaaaa!
+*(5:13) participant: i don’t care, i need it! i’m gonna die! i’m gonna die, i’m gonna die!
+ENDEPISODE_TRIAL_3 (5:19)
+STARTEPISODE_TRIAL_4 (5:20)
+*(5:21) participant: what are those things that look like skeletons?
+*(5:27) participant: bah! man.
+*(5:30) participant: bam, bam, bam! hey!
+ENDEPISODE_TRIAL_4 (5:34)
+STARTEPISODE_ACTUAL_1 (6:00)
+ENDEPISODE_ACTUAL_1 (6:53)
+STARTEPISODE_ACTUAL_2 (6:54)
+ENDEPISODE_ACTUAL_2 (7:36)
+STARTEPISODE_ACTUAL_3 (7:37)
+ENDEPISODE_ACTUAL_3 (8:43)
+STARTEPISODE_ACTUAL_4 (8:44)
+*(9:01) participant: i played a game just like this at my dad’s house.
+*(9:09) participant: better get some water.
+*(9:13) participant: gotta get some water. okaaay.
+ENDEPISODE_ACTUAL_4 (9:28)
+STARTEPISODE_ACTUAL_5 (9:29)
+*(9:46) participant: i don’t have a cat. 
+*(9:51) participant: gotta make a wooden sword. and, let’s go mining!
+*(9:59) participant: how do i get stuff? oh, a knife.
+*(10:06) participant: break this!
+*(10:15) participant: they can’t shoot me in the stone.
+*(10:19) participant: i’m lucky.
+*(10:25) participant: oh no! i’m dead by now.
+*(10:41) participant: okaay, i need to make a crafting table.
+*(10:56) participant: ok, i’m gonna risk my life.
+ENDEPISODE_ACTUAL_5 (11:10)
+STARTEPISODE_ACTUAL_6 (11:11)
+ENDEPISODE_ACTUAL_6 (11:39)
+STARTEPISODE_ACTUAL_7 (11:40)
+*(11:48) participant: lava!
+*(12:02) participant: one down.
+*(12:08) participant: taking wood.
+*(12:28) participant: good.
+*(12:37) participant: mine, mine, mine, mine, mine, mine, mine mine mine. mine!
+*(12:40) participant: need to go down, mine mine mine!
+*(12:46) participant: go! go!
+ENDEPISODE_ACTUAL_7 (12:49)
+STARTEPISODE_ACTUAL_8 (12:50)
+*(13:05) participant: eat! oh i eat the horses. or pigs, or whatever they are.
+*(13:11) participant: what?
+*(13:14) participant: i can cut down the trees, right?
+*(13:30) participant: they can’t attack– they can’t attack me when i’m sleeping, right?
+ENDEPISODE_ACTUAL_8 (13:34)
+STARTEPISODE_ACTUAL_9 (13:35)
+*(13:42) participant: boom! boom, boom, boom, go down!
+*(13:46) participant: mine.
+*(13:54) participant: have to find some wood.
+*(13:56) participant: attack!
+*(14:01) participant: # up!
+*(14:24) participant: let’s go go go! let me get some diamonds.
+*(14:32) participant: come on! need to go back to ##.
+*(15:05) participant: oh no i better go go go go go go go. mine mine mine mine mine mine.
+*(15:10) participant: ph i can’t! i can’t move! come ooon!
+ENDEPISODE_ACTUAL_9 (15:21)
+STARTEPISODE_ACTUAL_10 (15:22)
+*(15:25) participant: let’s see. mine? mine.
+*(15:37) participant: mine. mine.
+*(15:46) participant: okay. should be able to finish this, let’s see.
+*(15:50) participant: let’s get some wood.
+*(16:14) participant: fight! fight! attack, attack, attack! chop, chop, chop!
+*(16:20) participant: ok, my goodness!
+ENDEPISODE_ACTUAL_10 (16:30)
+STARTEPISODE_ACTUAL_11 (16:31)
+*(16:46) participant: ok, i’m gonna ##. get a crafting table and get some wood.
+*(17:06) participant: ok, let’s go get some stone.
+*(17:10) participant: here we go, let’s drink some water.
+*(17:18) participant: go, go, go.
+*(17:26) participant: oh geez. geez, geez, geez!
+ENDEPISODE_ACTUAL_11 (17:40)
+STARTEPISODE_ACTUAL_12 (17:41)
+*(18:30) participant: attack! attack with my wooden sword! kill that zombie!
+*(18:42) participant: start. hang on tight, we’re gonna ###. ###.
+*(18:58) participant: yay now i can make a sword. wait, a pickaxe.
+*(19:02) participant: select, i just selected.
+ENDEPISODE_ACTUAL_12 (19:29)
+STARTEPISODE_ACTUAL_13 (19:30)
+*(19:42) participant: go, go, go! don’t wanna die!
+*(19:49) participant: oh no no no!
+ENDEPISODE_ACTUAL_13 (19:50)
+STARTEPISODE_ACTUAL_14 (19:51)
+*(20:11) participant: i’m supposed to be humiliated.
+*(21:01) participant: need to go zzz!
+*(21:07) participant: i kind of ###.
+ENDEPISODE_ACTUAL_14 (21:35)
+*(21:35) participant: what!?
+STARTEPISODE_ACTUAL_15 (21:36)
+ENDEPISODE_ACTUAL_15 (22:38)
+STARTEPISODE_ACTUAL_16 (22:39)
+*(23:06) participant: gotta get another crafting table.
+*(23:10) participant: mine stone.
+*(23:22) participant: uh, uh.
+*(23:26) participant: where is stone? great.
+*(23:38) participant: ok, do i have enough stone to make a stone pickaxe? no i don’t.
+*(23:43) participant: how much stone do i need for stone pickaxe again?
+*(23:50) participant: i guess i’ll have to mine 10 to find out.
+*(23:54) participant: oh look, look.
+*(24:01) participant: stop, stop.
+*(24:06) participant: i have 9 stones.
+*(24:24) participant: i’m pressing “start” and it’s not letting– i have 9 stones and it’s not letting me make a stone pickaxe.
+*(24:30) participant: and i’m at the crafting table. i have enough stones.
+*(24:34) participant: hmm.
+*(24:42) participant: in real, in real minecraft, you need wood, so.
+*(24:55) participant: yea. one stone and one wood.
+ENDEPISODE_ACTUAL_16 (25:03)
+STARTEPISODE_ACTUAL_17 (25:04)
+*(25:35) participant: ####. need to get more wood.
+*(25:52) participant: ooh. ah. pick up.
+*(26:09) participant: two stone pickaxes. now i can get some stones.
+*(26:22) participant: i did another thing.
+*(26:34) participant: this is risky. oh no they attacked my–oh no, no no no.
+*(26:49) participant: oh, geez, thanks.
+ENDEPISODE_ACTUAL_17 (26:56)

@@ -1,0 +1,121 @@
+STARTEPISODE_TRIAL_1 (2:11)
+*(2:20) participant: uhh i can’t move.
+*(2:29) participant: press this one to get water. i need meat so i’m gonna kill a cow.
+*(2:36) participant: cow cow, i wanna kill the cow, i can’t get the cow.
+*(2:45) participant: i know but to fight i need - oh i’m gonna fight this. oh i think i did it, did i do it?
+*(2:56) participant: okay, i don’t have much energy left so i’m gonna quickly get some water.
+*(3:07) participant: i don't have to react continuously - oh wait i just fell asleep, whoopsies. i have to take my hand off this so ###
+ENDEPISODE_TRIAL_1 (3:12)
+STARTEPISODE_TRIAL_2 (3:13)
+*(3:13) participant: okay. i don’t actually have to keep pressing, i can just hold.
+*(3:19) participant: okaaaay… i don’t have to actually ###
+*(3:31) participant: oh i think i got meat. i think i got it. yeah.
+*(3:36) participant: i wanna go this way. water. and then i’ll plant with this, that's what this is. and then you eat that. ### eat, eat, eat, i’m going to eat you.
+*(4:05) participant: i can kill a zombie fast.
+ENDEPISODE_TRIAL_2 (4:08)
+STARTEPISODE_TRIAL_3 (4:09)
+*(4:11) participant: okay let’s see. i need wood. oh diamonds! so let’s make -
+*(4:20) participant: yeah there’s diamonds over there. wow, they look big.
+*(4:30) participant: lava no. okay it’s not letting me go past this site. ### anything?
+*(4:48) participant: i wanna get to the water so i don’t die.
+*(4:52) participant: oh my goodness, kill, kill, kill, why can’t i go up? kill, kill, kill, please kill, please die. please die. please die. please die. ok he died.
+*(5:04) participant: i need water. i need water. i need water. okay i’m gonna go to sleep.
+*(5:11) participant: i might die in my sleep. oh no.
+*(5:17) participant: i die in my sleep cause of him.
+ENDEPISODE_TRIAL_3 (5:18)
+STARTEPISODE_ACTUAL_1 (5:45)
+*(5:46) participant: i’m gonna die a million times.
+*(5:52) participant: thanks. this time let me take a look around.
+*(5:53) participant: no i don’t want to get wood, i don’t want to get wood. oh, i finally got a cow.
+*(5:59) participant: i might not starve to death. i may die, but i might not starve. oh i have to make a crafting table. i have to do stuff that i definitely didn’t forget.
+*(6:12) participant: okay, i’m gonna get water. i’m gonna try to get as many, as many - oh ah ah ah, no wait what are you doing!?
+*(6:21) participant: kill, kill, kill, kill them. yes.
+*(6:25) participant: okay. get water, i need water. and i need to find some food, like now, and i need to run away from that.
+*(6:32) participant: yes yes, please please please please. i don’t wanna die. i don’t wanna die. i don't wanna die.
+ENDEPISODE_ACTUAL_1 (6:41)
+STARTEPISODE_ACTUAL_2 (6:42)
+*(6:46) participant: okay, i want to at least get a crafting table. i’m gonna eat this cow, i’m gonna find water. i’m gonna not get shot by the skeleton.
+*(6:58) participant: oh i need more water than that.
+*(7:00) participant: now i’m going to make a crafting table - hopefully. how do i make one?
+*(7:20) participant: i think i need more wood.
+*(7:24) participant: wood is this way.
+*(7:25) participant: it would probably take at least 3 wood in minecraft that would.
+*(7:40) participant: okay, i’m gonna go to bed because i have enough to survive for tonight. oh no wait wait, please please please please. why is it not letting me?
+ENDEPISODE_ACTUAL_2 (7:50)
+STARTEPISODE_ACTUAL_3 (7:51)
+*(8:00) participant: kill, kill, kill, please i need meat. meat.
+*(8:04) participant: meat please, please, i can’t find any water so meat is the best choice.
+*(8:11) participant: i got some, i got some.
+*(8:13) participant: i’m gonna get some wood. i gotta stay away from those.
+*(8:18) participant: okay, i got some more meat. where is the water? where is this water?
+*(8:25) participant: wait, wait wait i can’t fight it, i can’t fight it, wait!
+ENDEPISODE_ACTUAL_3 (8:30)
+STARTEPISODE_ACTUAL_4 (8:31)
+*(8:39) participant: i’m just gonna # i need wood, ###. i need wood, i need fire.
+*(8:43) participant: wait wait, can i make fire? i don’t think i can make fire.
+*(8:51) participant: theres water over there so
+*(8:56) participant: yeah but furnace is just to cook stuff.
+*(9:00) participant: is that, i got some of that. i think i have enough #.
+*(9:05) participant: i’m going to put the - oh i don't like that. fight, fight, fight, please die.
+*(9:15) participant: okay how do i - okay i’m just gonna go to sleep. please don’t die. please don’t die in your sleep. please, please, please, please, please.
+ENDEPISODE_ACTUAL_4 (9:23)
+STARTEPISODE_ACTUAL_5 (9:24)
+*(9:24) participant: how does that make me die? i didn’t do anything wrong!
+*(9:29) participant: did i do something wrong? is this game rigged?
+*(9:34) participant: this game hates me.
+*(9:42) participant: kill it. kill, kill, kill cow. i killed it, yes!
+*(9:48) participant: get this. okay so the blue button or wait no yellow.
+*(9:53) participant: oh wait, no, blue button, yes. blue button. okay, i think i have enough food for now.
+*(10:00) participant: i need to make a wooden sword fast because if i do not–can i just, like, quickly make a – okay, guess i have to make it ###
+*(10:12) participant: oh my god i can’t move! it’s not letting me move!
+ENDEPISODE_ACTUAL_5 (10:14)
+STARTEPISODE_ACTUAL_6 (10:15)
+*(10:17) participant: i pressed every button but the button i needed.
+*(10:20) participant: yeah i pressed the green button, i pressed the blue button. i pressed every button except the red button that i needed.
+*(10:28) participant: okay please get the cow, why can’t you get the cow? why can;t you get the cow!?
+*(10:35) participant: ohhh get that and get that.
+*(10:39) participant: can i please get the cow? please, cow? please, please, okay. finally okay. i need to get water. i’m running low. okay.
+*(10:54) participant: how do i craft again? okay move the crafting table. one sword coming up!
+*(11:05) participant: okay, i’m gonna run away from any skeleton or baddies because - no wait why- i can’t get - how do i get out? they surrounded me.
+ENDEPISODE_ACTUAL_6 (11:09)
+STARTEPISODE_ACTUAL_7 (11:10)
+*(11:15) participant: as soon as i, as soon as i did everything right and it just did! it wanted me to stop getting things right.
+*(11:25) participant: cow, cow, cow, cow, cow, cow. i can’t get the cow.
+*(11:32) participant: okay, i got the cow, okay.
+*(11:42) participant: and then some more cow. no, i can't get it. okay. no wait, uh uh uh uh. okay i did it, i did it. okay, i’m gonna go to bed. please, please i don’t ###
+ENDEPISODE_ACTUAL_7 (11:57)
+STARTEPISODE_ACTUAL_8 (11:58)
+*(11:58) participant: i can’t do anything about when i sleep ##
+*(12:10) participant: cause maybe a bed could help me. you know i could probably make a house or something around me but come on! isn’t that a bit hard?
+*(12:23) participant: how do i, i can’t, uh. this is the worst try i’ve had.
+*(12:30) participant: okay wood, wood at least. he actually doesn’t sleep.
+*(12:37) participant: i don’t have any pickaxes or anything okay. okay i - uh, which one is - i’m gonna keep moving so i don’t die.
+*(12:52) participant: how do i - what do i do? what am i - what am i doing? i don’t know what i’m doing. you know what, i'm just gonna die.
+*(13:01) participant: it’s just, it’s just gonna kill me! there's just no way to not die. unless you, unless -
+ENDEPISODE_ACTUAL_8 (13:11)
+STARTEPISODE_ACTUAL_9 (13:12)
+*(13:12) participant: i still have 2 hearts but i still die. why does it do that? i had two more hearts.
+*(13:23) participant: oh cow! cow, cow, cow. please. please, please i’m so hungry. please i need to–
+*(13:38)participant: : i know you don’t like me.
+*(13:43) participant: i’m getting everything but the cow.
+*(13:44) finally! jesus, that took forever.
+*(13:49) participant: where’s water? need water source.
+*(13:53) participant: uhh, please, uh, uh, uh, uh, uh. why, why. i get 2 swords. 2 of each, 2 of each.
+*(14:06) participant: please, please. kill it! kill it!
+*(14:11) participant: okay, now go to sleep.
+*(14:14) participant: three hearts, please. oh okay, here we go. oh maybe i won’t die. no - wait please please. how do i escape, how do i escape, how do you escape?
+ENDEPISODE_ACTUAL_9 (14:24)
+STARTEPISODE_ACTUAL_10 (14:25)
+*(14:25) participant: i can’t do anything to escape!
+*(14:32) participant: oh no, well i’m not gonna be able to win. i keep dying in my sleep!
+*(14:39) participant: i keep dying when i go to sleep. i’m not going to ever, like, get out of dying.
+*(14:49) participant: oh my god there’s a skeleton!
+*(14:58) participant: i can’t get hit, i can’t get hit.i don’t think the swords really help. they don’t really help. they’re not doing anything for me at all.
+*(15:07) participant: oh no, oh no. run, run, run, run. why’s it not letting me go? nooo!
+ENDEPISODE_ACTUAL_10 (15:11)
+STARTEPISODE_ACTUAL_11 (15:12)
+*(15:15) participant: no please let me play!
+*(15:27) participant: okay, i - finish the game - maybe, maybe it helps me hunt better? maybe, it just helps me hunt. 
+*(15:38) participant: please, please, okay it’s not helping me at all. no, i don’t think it is. okaaay.
+*(15:47) participant: wait, is this how i drink? okay, i’m just gonna stay right here and i’m gonna take a nap, right here. why am i sleeping standing up? no - wait, wait, wait, no escape.
+ENDEPISODE_ACTUAL_11 (15:59)

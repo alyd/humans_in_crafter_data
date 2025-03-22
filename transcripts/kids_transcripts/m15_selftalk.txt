@@ -1,0 +1,25 @@
+STARTEPISODE_TRIAL_1 (1:48)
+*(2:38) participant: trying to press down.
+*(3:08) participant: come over to me, cow. what just hit me??? skeleton. skeleton.
+*(3:29) participant: don’t shoot me. i’m sleeping.
+ENDEPISODE_TRIAL_1 (3:48)
+STARTEPISODE_ACTUAL_1 (4:04)
+*(5:39) participant: ahh
+*(6:00) participant: nope nope nope
+ENDEPISODE_ACTUAL_1 (6:33)
+STARTEPISODE_ACTUAL_2 (6:34)
+*(6:40) participant: c’mon, i dont even have a weapon yet.
+*(7:22) participant: get cow.
+*(7:40) participant: i need to find some water.
+*(8:02) participant: please don't shoot me dude.
+ENDEPISODE_ACTUAL_2 (8:07)
+STARTEPISODE_ACTUAL_3 (8:10)
+*(8:16) participant: i ran out of water probably.
+*(8:55) participant: i need to find some water fast. i know exactly where it is.
+*(10:02) participant: ###  please don’t shoot me. why isn’t he shooting me?
+*(11:00) participant: ### i’m running out of hearts.
+ENDEPISODE_ACTUAL_3 (11:01)
+STARTEPISODE_ACTUAL_4 (11:03)
+*(12:30) participant: if you run out of food in minecraft, you don’t die. you just go down to half a heart.
+*(13:25) participant: no, give me this cow.
+ENDEPISODE_ACTUAL_4 (14:04)

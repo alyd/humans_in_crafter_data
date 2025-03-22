@@ -1,0 +1,52 @@
+STARTEPISODE_TRIAL_1 (2:09)
+*(2:13) participant: my hearts are 9. in minecraft, you have 10.
+*(2:29) participant: ah skeleton!
+ENDEPISODE_TRIAL_1 (2:50)
+STARTEPISODE_TRIAL_2 (2:52)
+*(3:07) participant: how do i break that tree? why are there so many skeletons?
+ENDEPISODE_TRIAL_2 (3:33)
+STARTEPISODE_TRIAL_3 (3:35)
+ENDEPISODE_TRIAL_3 (3:43)
+STARTEPISODE_TRIAL_4 (3:44)
+*(3:47) participant: i need to get this guy. come here cowy. cowy! no.
+*(3:55) participant: cowy, cowy, cowy. cowy! cowy! cowy!
+*(4:21) participant: oh! bad idea.
+*(4:25) participant: oh no. ### why so many zombies.
+ENDEPISODE_TRIAL_4 (4:33)
+STARTEPISODE_ACTUAL_1 (5:09)
+*(5:14) participant: i need to get a cow. impossible!
+*(5:25) participant: i’m going to eat you. oh i just ate a tree. what did i eat a tree?
+*(5:43) participant: i need water
+*(6:00) participant: skeleton.
+*(6:10) participant: what does it have to be night? zombies! no, i need to go this way. 5 hearts left. ###. i’m sorry zombie. what just happened.
+ENDEPISODE_ACTUAL_1 (6:27)
+STARTEPISODE_ACTUAL_2 (6:29)
+*(6:35) participant: i got it! yay finally i got a cow!
+*(7:13) participant: i need to go get water
+*(8:00) participant: i need to get diamond. i need to get diamond. i need to get diamond. i need to get diamond. i need to get diamond.
+*(8:10) participant: i need to get diamonds. diamonds! ahhh!
+*(8:20) participant: one heart! it’s game over.
+ENDEPISODE_ACTUAL_2 (8:26)
+STARTEPISODE_ACTUAL_3 (8:28)
+ENDEPISODE_ACTUAL_3 (10:08)
+STARTEPISODE_ACTUAL_4 (10:10)
+*(10:30) participant: that zombie just teleported! that’s unusual. you don’t see a teleporting zombie everyday!
+*(11:04) participant: i need water.
+*(11:17) participant: it’s game over.
+ENDEPISODE_ACTUAL_4 (11:20)
+STARTEPISODE_ACTUAL_5 (11:23)
+*(11:34) participant: i need to get some trees and make your stuff. i’m gonna save up my wood. i’m gonna make a crafting table, a pickaxe.
+*(12:07) participant: good bye, good bye, good bye, good bye, good bye
+*(12:14) participant: i need to craft a sword. game over.
+ENDEPISODE_ACTUAL_5 (12:19)
+STARTEPISODE_ACTUAL_6 (12:21)
+*(12:25) participant: the zombies are invincible.
+*(12:40) participant: my cow.
+*(14:00) participant: i need food
+ENDEPISODE_ACTUAL_6 (14:06)
+*(14:07) participant: the zombie didn’t even get me.
+STARTEPISODE_ACTUAL_7 (14:08)
+*(14:22) participant: ### 
+*(14:53) participant: i’m dying. i need some water. i made my sword. use my sword on them.
+*(15:03) participant: wow. with 2 hearts. okay, it’s gonna be morning soon. come here zombie, i have a sword. okay, bad idea.
+ENDEPISODE_ACTUAL_7 (15:20)

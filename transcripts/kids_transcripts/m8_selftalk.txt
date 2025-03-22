@@ -1,0 +1,18 @@
+STARTEPISODE_TRIAL_1 (1:18)
+ENDEPISODE_TRIAL_1 (1:54)
+STARTEPISODE_TRIAL_2 (1:56)
+ENDEPISODE_TRIAL_2 (2:36)
+STARTEPISODE_TRIAL_3 (2:38)
+ENDEPISODE_TRIAL_3 (3:23)
+STARTEPISODE_ACTUAL_1 (3:37)
+ENDEPISODE_ACTUAL_1 (4:41)
+STARTEPISODE_ACTUAL_2 (4:42)
+*(5:24) participant: did i just kill it? yeah.
+ENDEPISODE_ACTUAL_2 (5:33)
+STARTEPISODE_ACTUAL_3 (5:34)
+*(6:00) participant: one minute, one minute. i know. one more minute. get the dog. get the dog.
+*(6:13) participant: i have one more life. i got two now.
+ENDEPISODE_ACTUAL_3 (6:18)
+STARTEPISODE_ACTUAL_4 (6:19)
+*(6:28) participant: get the dog. just explode the dog. oh, you just hit it. get the dog
+ENDEPISODE_ACTUAL_4 (7:16)

@@ -1,0 +1,45 @@
+STARTEPISODE_TRIAL_1 (1:53)
+ENDEPISODE_TRIAL_1 (2:52)
+STARTEPISODE_TRIAL_2 (3:15)
+ENDEPISODE_TRIAL_2 (3:25)
+STARTEPISODE_TRIAL_3 (3:27)
+ENDEPISODE_TRIAL_3 (4:43)
+STARTEPISODE_ACTUAL_1 (5:06)
+ENDEPISODE_ACTUAL_1 (5:52)
+STARTEPISODE_ACTUAL_2 (5:54)
+ENDEPISODE_ACTUAL_2 (6:40)
+STARTEPISODE_ACTUAL_3 (6:42)
+ENDEPISODE_ACTUAL_3 (7:57)
+STARTEPISODE_ACTUAL_4 (7:59)
+ENDEPISODE_ACTUAL_4 (8:38)
+STARTEPISODE_ACTUAL_5 (8:39)
+ENDEPISODE_ACTUAL_5 (9:20)
+STARTEPISODE_ACTUAL_6 (9:21)
+ENDEPISODE_ACTUAL_6 (10:11)
+STARTEPISODE_ACTUAL_7 (10:13)
+ENDEPISODE_ACTUAL_7 (10:40)
+STARTEPISODE_ACTUAL_8 (10:42)
+*(11:02) participant: # sheep.
+*(11:04) participant: oh! sleep.
+*(11:28) participant: oh i planted a tree. wait, i did? no i didn’t. oh! no i didn’t. maybe, i don’t know. yeah, i planted a tree.
+ENDEPISODE_ACTUAL_8 (11:58)
+*(11:58) participant: oh they just -
+STARTEPISODE_ACTUAL_9 (11:59)
+*(12:04) participant: do i just catch the sheep?
+*(12:42) participant: oh that’s
+ENDEPISODE_ACTUAL_9 (12:48)
+STARTEPISODE_ACTUAL_10 (12:50)
+*(13:42) participant: oh that one - maybe, i don’t know.
+*(13:47) participant: i’m surrounded - oh
+*(13:55) participant: and i’m dead.
+ENDEPISODE_ACTUAL_10 (13:56)
+STARTEPISODE_ACTUAL_11 (13:57)
+*(14:51) participant: ah ee oo ee ah ee oo ee
+*(14:57) participant: i can’t move. i’m dead. oh wait what. i can still move. i can still move.
+*(15:03) participant: and i will -
+ENDEPISODE_ACTUAL_11 (15:07)
+STARTEPISODE_ACTUAL_12 (15:09)
+*(15:10) participant: need to #
+ENDEPISODE_ACTUAL_12 (16:13)
+STARTEPISODE_ACTUAL_13 (16:15)
+ENDEPISODE_ACTUAL_13 (16:32)

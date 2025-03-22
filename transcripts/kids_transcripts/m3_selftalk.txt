@@ -1,0 +1,106 @@
+STARTEPISODE_TRIAL_1 (2:11)
+*(2:16) participant: i can’t! i can’t make this– i don’t know why but i can’t make a tree right now. you can plant trees in the game. yes you can!
+*(2:58) participant: so many skeletons!
+*(3:03) participant: don’t try to stoooop before– eaagh! ### that’s a #. that’s a #, that’s a #, that’s a #.
+ENDEPISODE_TRIAL_1 (3:10)
+STARTEPISODE_TRIAL_2 (3:11)
+*(3:20) participant: ooh, so no– you want to # water, you need to #
+*(3:38) participant: can i mine water? haha
+*(3:43) participant: i know you can’t.
+*(3:47) participant: and i’m getting more and more. and more and more and more.
+*(3:53) participant: oh no, whyyy. i have to make a wooden chest! haha
+*(3:58) participant: where’s my– woooah
+*(4:07) participant: i’m trying to attack. finally, i attacked. i kept dying, hehe.
+*(4:18) participant: making a sword. uhhhm.
+ENDEPISODE_TRIAL_2 (4:29)
+*(4:29) participant: aah! i died!
+STARTEPISODE_ACTUAL_1 (5:00)
+*(5:09) participant: i just ##. i might ## what i can. i can’t even mine water, can i? no i can’t.
+*(5:18) participant: i can’t get into the water, what’s the water then?
+*(5:21) participant: why is there skeleton in the–
+*(5:25) participant: this is nervous, the skeletons are supposed to die right now. oh! perfect for the furnace i need.
+*(5:34) participant: why can’t? oh yea, i need a wooden pickaxe first!
+*(5:39) participant: and then i need this. and i needed this. aaaagh! aaa! aaaaa ahaha aaaa!
+*(5:48) participant: die, die, die, die, die, die, die!
+ENDEPISODE_ACTUAL_1 (5:53)
+*(5:53) participant: awwww.
+STARTEPISODE_ACTUAL_2 (5:54)
+*(6:00) participant: why can’t i plant? why can’t i plant trees?
+*(6:25) participant: why!?
+*(6:30) participant: this–this copper blocked his #, he avoided it hehehe.
+*(6:36) participant: he’s gonna sleep. and sleep. and sleep.
+*(6:40) participant: hahaha.
+*(6:44) participant: this is all you get. aaagh!
+*(6:48) participant: how can iiiii? how can i cancel my sleep? aaagh!
+*(6:56) participant: i’m at one hp.
+*(6:58) participant: great, it’s still alive, he can sleep some more.
+*(7:04) participant: he’s just gonna keep sleeping haha. is it morning yet?
+*(7:11) participant: i want these skelies to go awaaaay.
+*(7:19) participant: oh whyyy, why are you doing this.
+*(7:23) participant: when can i make a furnace? i’m trying to make a furnace.
+ENDEPISODE_ACTUAL_2 (7:27)
+STARTEPISODE_ACTUAL_3 (7:28)
+*(7:28) participant: what!? how did i dieeee?
+*(7:36) participant: oh it’s probably because of my health or my hunger, i forgot to eat!
+*(7:42) participant: oh yeah, first i need my wood! haha. aa! why is there a skelie!?
+*(7:50) participant: why is there skelies everywhere?
+*(7:56) participant: can you turn my–
+*(8:07) participant: aaagh!
+ENDEPISODE_ACTUAL_3 (8:13)
+STARTEPISODE_ACTUAL_4 (8:14)
+*(8:15) participant: it’s haaard! #### and i’m gonna need this. okay.
+*(8:24) participant: i just need to mine this. how long is nighttime anyway?
+*(8:32) participant: aaargh! ow!
+*(8:40) participant: i need to start mining stuff. finally, it’s already nighttime.
+*(8:49) participant: what! i felt #.
+*(9:05) participant: oooh, i got caught!
+*(9:19) participant: i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food, i got food.
+ENDEPISODE_ACTUAL_4 (9:31)
+*(9:31) participant: awww, maaan!
+STARTEPISODE_ACTUAL_5 (9:32)
+*(9:33) participant: why is this so hard? how do you even get energy? by eating? i just killed a cow i just found hahaha.
+*(9:40) participant: kill! kil, kill, kill!
+*(9:45) participant: ok, i’ve got this this and this.
+*(9:50) participant: i think i need a wooden sword just to kill a cow.
+*(10:06) participant: aagh! i just made a crafting table!
+*(10:12) participant: how do iiiiiiii?
+*(10:17) participant: i don’t have enough! i need nine! like in the real game. finally!
+*(10:26) participant: ooh, i need more stones!
+*(10:45) participant: oh my! there’s another skelly! why is it hunting me down!?
+*(10:52) participant: why do they stay in the morning?
+*(10:58) participant: aaagh, haha, ooow!
+ENDEPISODE_ACTUAL_5 (11:00)
+STARTEPISODE_ACTUAL_6 (11:01)
+*(11:17) participant: oh you can– if you can at least make armor this would be useful!
+*(11:30) participant: why can’t– i need copper! wait, is that iron actually?
+*(11:39) participant: it’s already nighttime!? i can’t– oh yeah, i need a stone pickaxe, i forgot, just to make that.
+*(11:48) participant: i think in here i’m safe, i’m safe. aaaagh!
+*(11:52) participant: i just dogged that arrow, haha! how did i just dodge that arrow? i’ll just keep walking, walking, walking, walking.
+*(12:00) participant: run, run, ruuuuun! run, run, run, ruuuuun!
+*(12:05) participant: run, run, run, run, run, run, ruuuuun! i’m dead.
+*(12:08) participant: i’m dead, i’m dead, i’m dead, i'm dead. i’m dead.
+ENDEPISODE_ACTUAL_6 (12:10)
+STARTEPISODE_ACTUAL_7 (12:11)
+*(12:12) participant: i–! what’s wrong with these? i need a, i need a source of wood and–
+*(12:30) participant: why are there already skeletons here? give me at least a second to focus.
+*(13:03) participant: why can’t i make a s– oh yea, because you need wood.
+*(13:07) participant: i need more wooooodd!
+*(13:10) participant: ow, ow, ow, ow, ow.
+*(13:16) participant: get back to the crafting tableeee.
+*(13:26) participant: yay, i got the stone pickaxe.
+*(13:32) participant: wait, how do i bring– wait am i dying?
+*(13:35) participant: how do i drink? i need food, i'm dying!
+ENDEPISODE_ACTUAL_7 (13:43)
+STARTEPISODE_ACTUAL_8 (13:44)
+*(13:44) participant: i’m dead? oh yea, because of my hungeeer! my hunger!
+*(13:48) participant: how do i eat then?
+*(13:50) participant: i’m just #. do do do do
+*(13:53) participant: wait can i even get, oh yea.
+*(14:01) participant: where is–
+*(14:18) participant: is this enough to make a stone pickaxe?
+*(14:20) participant: no no no no no no no no no no no no no! nooo! no no no no no no no no no no no no no no no no! no no no no no no no no no no! no no no no no no no no no no no, haha! no no no no no no no haha.
+*(14:37) participant: no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no!
+*(14:54) participant: greeeaat! this is so haaard!
+ENDEPISODE_ACTUAL_8 (14:55)
+*(15:04) participant: ugh, i’m just gonna keep pressing #, i just gotta keep up– i can’t even make #
+*(15:13) participant: oh, that’s how you #. just keep spamming #.

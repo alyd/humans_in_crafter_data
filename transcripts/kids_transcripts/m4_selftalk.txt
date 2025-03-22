@@ -1,0 +1,35 @@
+STARTEPISODE_TRIAL_1 (1:34)
+*(1:46) participant: i’m not placing a crafting table.
+ENDEPISODE_TRIAL_1 (2:41)
+*(2:42) participant: game over.
+STARTEPISODE_TRIAL_2 (2:43)
+*(3:37) participant: i’m stuck.
+ENDEPISODE_TRIAL_2 (4:01)
+*(4:02) participant: fighting it doesn’t work!
+STARTEPISODE_ACTUAL_1 (4:27)
+*(4:30) participant: finally, so much trees.
+*(5:21) participant: oh my god they are teaming up and killing me!
+ENDEPISODE_ACTUAL_1 (5:23)
+STARTEPISODE_ACTUAL_2 (5:24)
+*(5:31) participant:oh my god why is there a skeleton!
+*(6:19) participant: yea ##
+*(6:27) participant: run!
+ENDEPISODE_ACTUAL_2 (6:51)
+*(6:52) participant: oh, it’s game over already?
+STARTEPISODE_ACTUAL_3 (6:53)
+*(7:48) participant: oh my god it’s just sitting there. 
+ENDEPISODE_ACTUAL_3 (8:05)
+STARTEPISODE_ACTUAL_4 (8:07)
+ENDEPISODE_ACTUAL_4 (8:50)
+STARTEPISODE_ACTUAL_5 (8:52)
+*(8:55) participant: that’s it i’m getting a pickaxe first.
+*(9:22) participant: oh i just killed one of them.
+*(9:31) participant: yaaay, i can get rid of skeletons!
+*(9:48) participant: yaay, i’m allowed to kill them.
+ENDEPISODE_ACTUAL_5 (9:54)
+*(9:54) participant: i’m dead.
+*(9:55) participant: i know it’s game over.
+STARTEPISODE_ACTUAL_6 (9:55)
+*(10:08) participant: i’m going mining!
+*(10:25) participant:  i want to kill this.
+ENDEPISODE_ACTUAL_6 (10:53)
