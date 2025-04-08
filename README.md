@@ -1,6 +1,16 @@
 ## Intrinsically-Motivated Humans and Agents in Open-World Exploration
 
-Data collected from adults, children and AI agents playing a [simplified version of Crafter](https://github.com/alyd/simple-crafter) for the paper *Intrinsically-Motivated Humans and Agents in Open-World Exploration* by Aly Lidayan, Yuqing Du, Eliza Kosoy, Maria Rufova, Pieter Abbeel and Alison Gopnik.
+Data collected from adults, children and AI agents playing a [simplified version of Crafter](https://github.com/alyd/simple-crafter).
+See the research paper to find out more: [Intrinsically-Motivated Humans and Agents in Open-World Exploration](https://arxiv.org/abs/2503.23631).
+
+```
+@article{lidayan2025intrinsically,
+  title={Intrinsically-Motivated Humans and Agents in Open-World Exploration},
+  author={Lidayan, Aly and Du, Yuqing and Kosoy, Eliza and Rufova, Maria and Abbeel, Pieter and Gopnik, Alison},
+  journal={arXiv preprint arXiv:2503.23631},
+  year={2025}
+}
+```
 
 ### Participants
 Each child participant's identity is consistently denoted by either *m#* or *part#*, which are two completely disjoint sets of participants. The adult participants' identities are denoted by *part#* and there is no relation between *part#* adult participants and *part#* child participants. Demographic information is saved in the `participant_info` folder.
