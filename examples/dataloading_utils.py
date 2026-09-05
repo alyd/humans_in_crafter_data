@@ -31,30 +31,10 @@ def load_into_dict(dataset_paths,agent_subsample):
     return data_dict
 
 
-def run_is_clean(run_row, dirname, run_name):
-    """return False if run is invalid:
-        -the controller wasn't working at all
-        -the participant stopped playing but the RA didn't close the game before the episode ended in Game Over
-        should always return True since this was used to identify and delete invalid runs"""
-    len_episode = len(run_row['action'])
-    # controller probably not working:
-    percent_noop = np.sum(run_row['action'] == 0)/len_episode
-    if percent_noop >0.98:
-        print("run ", dirname, run_name, " was more than 98% no-op")
-        return False
-    # participant stopped playing but game still recording:
-    #check last 15 seconds of episode for no-op, assuming FPS of around 3
-    if len_episode > 45:
-        if np.sum(run_row['action'][-45:]) == 0:
-            print("in run ", dirname, run_name, " participant stopped playing at the end.")
-            return False
-    return True
-
-
 def load_into_df(dataset_paths,agent_subsample=1):
     """agent_subsample is the subsampling factor of the number of episodes of agent data. 5 episodes were saved every 20000 steps
     """
-    print('loading dataset from files... (takes about 30 secs)')
+    print('loading dataset from files...')
     dataset_dict = load_into_dict(dataset_paths,agent_subsample)
     all_runs_df = pd.DataFrame()
 
