@@ -1,5 +1,7 @@
 Data collected from adults, children and AI agents playing the simplified version of crafter here: https://github.com/alyd/simple-crafter
 
+See `examples/getting_started.ipynb` for examples of loading and visualizing the data.
+
 Each child participant's identity is consistently denoted by either *m#* or *part#*, which are two completely disjoint sets of participants. The adult participants' identities are denoted by *part#* and there is futhermore no relation between *part#* adult participants and *part#* child participants. Demographic information is saved in the `participant_info` folder.
 
 ## Gameplay Logs
