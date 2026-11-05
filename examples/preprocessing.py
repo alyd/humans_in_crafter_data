@@ -284,7 +284,7 @@ def add_participant_demographics(dataset_df: pd.DataFrame):
     
 
 def add_transcripts(dataset_df: pd.DataFrame):
-    print('adding self talk transcripts:')
+    print('adding self talk transcripts...')
     adults_transcripts_folder = '../transcripts/adults_transcripts'
     kids_transcripts_folder = '../transcripts/kids_transcripts'
     consolidated_dict = {}
