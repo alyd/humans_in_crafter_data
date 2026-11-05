@@ -1,14 +1,20 @@
 ## Intrinsically-Motivated Humans and Agents in Open-World Exploration
 
 Data collected from adults, children and AI agents playing a [simplified version of Crafter](https://github.com/alyd/simple-crafter).
-See the research paper to find out more: [Intrinsically-Motivated Humans and Agents in Open-World Exploration](https://arxiv.org/abs/2503.23631).
+See the research paper to find out more: [Intrinsically-Motivated Humans and Agents in Open-World Exploration](https://www.pnas.org/doi/abs/10.1073/pnas.2612366123).
 
 ```
-@article{lidayan2025intrinsically,
-  title={Intrinsically-Motivated Humans and Agents in Open-World Exploration},
-  author={Lidayan, Aly and Du, Yuqing and Kosoy, Eliza and Rufova, Maria and Abbeel, Pieter and Gopnik, Alison},
-  journal={arXiv preprint arXiv:2503.23631},
-  year={2025}
+@article{
+doi:10.1073/pnas.2612366123,
+author = {Aly Lidayan  and Yuqing Du  and Eliza Kosoy  and Maria Rufova  and Pieter Abbeel  and Alison Gopnik },
+title = {Intrinsically motivated humans and agents in open-world exploration},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {123},
+number = {45},
+pages = {e2612366123},
+year = {2026},
+doi = {10.1073/pnas.2612366123},
+URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2612366123}
 }
 ```
 
