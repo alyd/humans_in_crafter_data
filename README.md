@@ -5,16 +5,16 @@ See the research paper to find out more: [Intrinsically-Motivated Humans and Age
 
 ```
 @article{
-doi:10.1073/pnas.2612366123,
-author = {Aly Lidayan  and Yuqing Du  and Eliza Kosoy  and Maria Rufova  and Pieter Abbeel  and Alison Gopnik },
-title = {Intrinsically motivated humans and agents in open-world exploration},
-journal = {Proceedings of the National Academy of Sciences},
-volume = {123},
-number = {45},
-pages = {e2612366123},
-year = {2026},
-doi = {10.1073/pnas.2612366123},
-URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2612366123}
+  doi:10.1073/pnas.2612366123,
+  author = {Aly Lidayan  and Yuqing Du  and Eliza Kosoy  and Maria Rufova  and Pieter Abbeel  and Alison Gopnik },
+  title = {Intrinsically motivated humans and agents in open-world exploration},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {123},
+  number = {45},
+  pages = {e2612366123},
+  year = {2026},
+  doi = {10.1073/pnas.2612366123},
+  URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2612366123}
 }
 ```
 
